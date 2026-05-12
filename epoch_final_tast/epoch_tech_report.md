@@ -4,7 +4,8 @@
 
 1. ### Architectural Diagram of Multi model
 
-<img width="673" height="610" alt="image" src="https://github.com/user-attachments/assets/a7ae1216-e728-48d8-9ae8-4ece2c415e7e" />
+<img width="1768" height="1606" alt="graphviz" src="https://github.com/user-attachments/assets/95b74ae0-1279-4970-870e-ac9c8685f915" />
+
 
 
 * I used a Late fusion model which have more weightage in predictions to CNN model rather than a LSTM model.
@@ -30,7 +31,8 @@
 
 ##### \-> CNN MODEL
 
-!\[Training and Validation Losses of CNN]("Screenshot 2026-05-12 214846.png")
+<img width="1058" height="682" alt="Screenshot 2026-05-12 214846" src="https://github.com/user-attachments/assets/e4cd72bd-1cd9-4649-8dd7-9e88c01af7e2" />
+
 
 
 
