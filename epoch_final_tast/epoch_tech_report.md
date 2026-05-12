@@ -20,7 +20,7 @@
 
 |              CNN MODEL|                LSTM MODEL|             LATE FUSION MODEL|
 |-|-|-|
-|              88.89%|                  0.0%|                 73.95%|
+|              88.89%|                  12.5%|                 73.95%|
 | Able to capture the features better|Wasn't able to learn anything , actually we can't do anything the task was not suitable for this might have worked if we used it for image features.|Mostly reliable on CNN model so better accuracy|
 
 
