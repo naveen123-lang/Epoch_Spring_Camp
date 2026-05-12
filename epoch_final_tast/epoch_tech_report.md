@@ -4,7 +4,8 @@
 
 1. ### Architectural Diagram of Multi model
 
-!\[Architectural Diagram]("graphviz.png")
+<img width="673" height="610" alt="image" src="https://github.com/user-attachments/assets/a7ae1216-e728-48d8-9ae8-4ece2c415e7e" />
+
 
 * I used a Late fusion model which have more weightage in predictions to CNN model rather than a LSTM model.
 * First I will tell about my CNN model, It's a standard CNN model in which I used 3 convolutional -> ReLU -> Max pooling loops and later passed through a Linear network for predictions. With this three loops I was able to capture a very good amount of information from the spectrogram images so my unimodal of CNN gave a good accuracy of 82-83%.
