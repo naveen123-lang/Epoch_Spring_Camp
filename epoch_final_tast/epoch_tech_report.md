@@ -36,7 +36,8 @@
 
 ##### \-> LSTM MODEL
 
-!\[Training and Validation Losses of LSTM]("Screenshot 2026-05-12 214818.png")
+<img width="1083" height="681" alt="Screenshot 2026-05-12 214818" src="https://github.com/user-attachments/assets/84b000b3-94b2-4d11-916e-59289b9fec72" />
+
 
 
 
